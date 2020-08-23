@@ -17,6 +17,8 @@ import com.wakaleo.gameoflife.domain.Universe;
  *  Hello world I am checking it this automatic task will possible to run or not. 
  * GameController.java
  * Controller to navigate the buttons on the game pages
+ 
+ * it's working. whenever some changes happen in github repository then autmatically trigger set to run the jenkins jobs. 
  */
 @Controller
 @RequestMapping("/game")
